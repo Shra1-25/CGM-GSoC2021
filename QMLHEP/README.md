@@ -9,22 +9,23 @@
 | Alkaid Cheng             | [AlkaidCheng](https://github.com/AlkaidCheng)         | [link](./cv/alkaid_cheng.pdf)                                                  | [link](https://github.com/AlkaidCheng/GSoC2021_QMLHEP)                            | Yes  | No   |
 | Eraraya Ricardo Muten    | [eraraya-ricardo](https://github.com/eraraya-ricardo) | [link](./cv/eraraya_ricardo_muten.pdf)                                         | [link](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021)                      | Yes  | Yes  |
 | Sajen Sarvajith          | [sajenjeshan1222](https://github.com/sajenjeshan1222) | [link](https://drive.google.com/file/d/1B8k3ARf6iVmhAOJCNveNzVcpw64rcoIA/view) | [link](https://colab.research.google.com/drive/1QDiemeG7YBJopvEIBpSKZzZYH6r3KO-k) | No   | Yes  |
-| Yog Dharaskar            |                                                       |                                                                                | [link](./solutions/yog_dharaskar)                                                 | No   | Yes  |
+| Yog Dharaskar            | [yopknopixx](https://github.com/yopknopixx)           | [link](./cv/yog_dharaskar)                                                     | [link](./solutions/yog_dharaskar)                                                 | No   | Yes  |
+| Nishanth R               | [AllMight2099](https://github.com/AllMight2099)       | [link](./cv/nishanth_r)                                                        | [link](https://github.com/AllMight2099/ml4sci-qcnn-eval)                          | No   | Yes  |
+
 
 
 ## Late/pending submissions
-| Student                  | GitHub Handle                                         | CV                                                                             | Test Submissions                                                                  | QGAN | QCNN |
-|--------------------------|-------------------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------|------|
-| Nakul Aggarwal           |                                                       |                                                                                |                                                                                   | Yes  | Yes  |
-| Ashutosh Dixit           |                                                       |                                                                                |                                                                                   | Yes  | No   |
-| Kshitij Soni             |                                                       |                                                                                |                                                                                   | No   | Yes  |
-| Vishnu Ajith             |                                                       |                                                                                |                                                                                   | No   | Yes  |
-| Dhruv Pasari             |                                                       |                                                                                |                                                                                   | No   | Yes  |
-| Shashank KV              |                                                       |                                                                                |                                                                                   | No   | Yes  |
-| Anantha Rao              |                                                       |                                                                                |                                                                                   | No   | Yes  |
-| Rhythm Chandak           |                                                       |                                                                                |                                                                                   | No   | Yes  |
-| Amish Mittal             |                                                       |                                                                                |                                                                                   | No   | Yes  |
-| Aparna Ajit Gupte        |                                                       |                                                                                |                                                                                   | No   | Yes  |
-| Pinaki Sen               |                                                       |                                                                                |                                                                                   | No   | Yes  |
-
-
+| Student           | GitHub Handle | CV | Test Submissions | QGAN | QCNN |
+|-------------------|---------------|----|------------------|------|------|
+| Nakul Aggarwal    |               |    |                  | Yes  | Yes  |
+| Ashutosh Dixit    |               |    |                  | Yes  | No   |
+| Kshitij Soni      |               |    |                  | No   | Yes  |
+| Vishnu Ajith      |               |    |                  | No   | Yes  |
+| Dhruv Pasari      |               |    |                  | No   | Yes  |
+| Shashank KV       |               |    |                  | No   | Yes  |
+| Anantha Rao       |               |    |                  | No   | Yes  |
+| Rhythm Chandak    |               |    |                  | No   | Yes  |
+| Amish Mittal      |               |    |                  | No   | Yes  |
+| Aparna Ajit Gupte |               |    |                  | No   | Yes  |
+| Pinaki Sen        |               |    |                  | No   | Yes  |
+| Prayushi Mathur   |               |    |                  | Yes  | No   |
