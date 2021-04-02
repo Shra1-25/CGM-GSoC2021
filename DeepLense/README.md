@@ -2,10 +2,11 @@
 
 ## Domain Adaptation
 
-| Student                 | GitHub Handle                                               | Test Submissions                                                    |
-| ----------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------- |
-| Marcos Tidball          | [zysymu](https://github.com/zysymu)                         | [ml4sci](https://github.com/zysymu/ml4sci)                          |
-| Gagan Bhatia            | [gagan3012](https://github.com/gagan3012)                   | [gsoc-deeplense-ml](https://github.com/gagan3012/gsoc-deeplense-ml) |
+| Student                 | GitHub Handle                                               | Test Submissions                                                           |
+| ----------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Marcos Tidball          | [zysymu](https://github.com/zysymu)                         | [ml4sci](https://github.com/zysymu/ml4sci)                                 |
+| Gagan Bhatia            | [gagan3012](https://github.com/gagan3012)                   | [gsoc-deeplense-ml](https://github.com/gagan3012/gsoc-deeplense-ml)        |
+| Yurii Halychanskyi      | [Claussss](https://github.com/Claussss)                     | [GSoC_evaluation_tests](https://github.com/Claussss/GSoC_evaluation_tests) |    
 
 Late/pending submissions:
 
@@ -14,7 +15,8 @@ Late/pending submissions:
 | Sudhanshu Mishra        | [msudhanshu10](https://github.com/msudhanshu10)             |                                                                     
 | Pramay Singhvi          | [QuickLearner171998](https://github.com/QuickLearner171998) |                                                                     
 | Dinesh Sathia Raj       | [DSSR2](https://github.com/dssr2)                           |                                                                     
-| Rajat Gupta             | [rajatguptakgp](https://github.com/rajatguptakgp)           |                                                                     
+| Rajat Gupta             | [rajatguptakgp](https://github.com/rajatguptakgp)           |   
+| Harsh Pandey            | [harsh1245-bit](https://github.com/harsh1245-bit)           |                                                                 
 | Kshitij Soni            |                                                             |                                                                     
 | Srihari Hari            |                                                             |                                                                     
 
@@ -44,10 +46,9 @@ Late/pending submissions:
 | Kshitij Soni            |                                                        |                                                                            
 | Srihari Hari            |                                                        |                                                                            
 | Manpinder Singh         |                                                        |                                                                              
-| Yurii Halychanskyi      |                                                        |                                                                            
+| Raushan kumar           |                                                        |                                                                            
 | Roaa ALmahdi            |                                                        |                                                                            
 | Priyam Gupta            |                                                        |                                                                            
-| Raushan kumar           |                                                        |                                                                            
 
 ## Equivariant
 
