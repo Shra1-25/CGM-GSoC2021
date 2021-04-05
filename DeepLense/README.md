@@ -28,6 +28,7 @@ Late/pending submissions:
 | Utcarsh Agrawal         | [Printutcarsh](https://github.com/Printutcarsh)        | [GSoC-DeepLense-Task](https://github.com/Printutcarsh/GSoC-DeepLense-Task) |
 | Asad Imtiaz Malik       | [asadimtiazmalik](https://github.com/asadimtiazmalik)  | [Test1](https://github.com/asadimtiazmalik/Simulating-the-Superfluid-Dark-Matter-using-PyAutolens) [Test3](https://github.com/asadimtiazmalik/Deep-Regression-Techniques-for-Decoding-Dark-Matter-with-Strong-Gravitational-Lensing-) |
 | Divyansha               | [divyansha1115](https://github.com/divyansha1115)      | [GSOC-Deep-Lens](https://github.com/divyansha1115/GSOC-Deep-Lens)          |
+| Sai Vamsi Alisetti      | [Vamsi995](https://github.com/Vamsi995)                | [Link](https://github.com/Vamsi995/Deep-Regression-Techniques-for-Decoding-Dark-Matter-with-Strong-Gravitational-Lensing) |  
 
 Late/pending submissions:
 
@@ -37,11 +38,11 @@ Late/pending submissions:
 | Ankur Sikarwar          | [ankursikarwar](https://github.com/ankursikarwar)      |                                                                            
 | Akhil Sanker            | [reekithak](https://github.com/reekithak)              |                                                                            
 | Raj Aaryaman Patra      | [RajArPatra](https://github.com/RajArPatra)            |                                                                            
-| Sai Vamsi Alisetti      | [Vamsi995](https://github.com/Vamsi995)                |                                                                           
 | Abhik Bapna             | [Abhik0605](https://github.com/Abhik0605)              |                                                                            
 | Sayantan Sadhu          | [sayantan1410](https://github.com/sayantan1410)        |                                                                            
 | Dinesh Sathia Raj       | [DSSR2](https://github.com/dssr2)                      |                                                                            
-| Rajat Gupta             | [rajatguptakgp](https://github.com/rajatguptakgp)      |                                                                            
+| Rajat Gupta             | [rajatguptakgp](https://github.com/rajatguptakgp)      |  
+| Arihant Barjatya        | [arihunter](https://github.com/arihunter)              |                                                                          
 | Rudra Sameer Nair       |                                                        |                                                                            
 | Kshitij Soni            |                                                        |                                                                            
 | Srihari Hari            |                                                        |                                                                            
