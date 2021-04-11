@@ -49,7 +49,8 @@ Late/pending submissions:
 | Manpinder Singh         |                                                        |                                                                              
 | Raushan kumar           |                                                        |                                                                            
 | Roaa ALmahdi            |                                                        |                                                                            
-| Priyam Gupta            |                                                        |                                                                             
+| Priyam Gupta            |                                                        |   
+| imad eddine tibermacine |                                                        |                                                                          
 
 ## Equivariant
 
@@ -59,6 +60,7 @@ Late/pending submissions:
 | Dhruv Rawat             | [thedhruvrawat](https://github.com/thedhruvrawat)     | [DeepLense](https://github.com/thedhruvrawat/DeepLense)                           |
 | Apoorva Vikram Singh    | [Apoorva99](https://github.com/Apoorva99)             | [GSoC-2021-DeepLens](https://github.com/Apoorva99/GSoC-2021-DeepLens)             |
 | Rajat Gupta             | [rajatguptakgp](https://github.com/rajatguptakgp)     | [gsoc21_deeplense](https://github.com/rajatguptakgp/gsoc21_deeplense)             |
+| Asad Imtiaz Malik       | [asadimtiazmalik](https://github.com/asadimtiazmalik) | [Link](https://github.com/asadimtiazmalik/ML4SCI--Solution-Repository/)           |
 
 Late/pending submissions:
 
@@ -74,4 +76,5 @@ Late/pending submissions:
 | Saksham Dhawan          |                                                           |                                                                                   
 | Sameer Arora            |                                                           |                                                                                   
 | Kshitij Soni            |                                                           |                                                                                   
-| Srihari Hari            |                                                           |                                                                                   
+| Srihari Hari            |                                                           |     
+| Tej Ved                 |                                                           |                                                                              
