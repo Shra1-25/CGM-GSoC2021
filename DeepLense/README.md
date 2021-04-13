@@ -6,9 +6,8 @@
 | ----------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------- |
 | Marcos Tidball          | [zysymu](https://github.com/zysymu)                         | [ml4sci](https://github.com/zysymu/ml4sci)                                 | Yes                 |
 | Gagan Bhatia            | [gagan3012](https://github.com/gagan3012)                   | [gsoc-deeplense-ml](https://github.com/gagan3012/gsoc-deeplense-ml)        | No                  |
-| Yurii Halychanskyi      | [Claussss](https://github.com/Claussss)                     | [GSoC_evaluation_tests](https://github.com/Claussss/GSoC_evaluation_tests) | No                  |  
 | Harsh Pandey            | [harsh1245-bit](https://github.com/harsh1245-bit)           | [ML4SCI-GSoC-2021](https://github.com/harsh1245-bit/ML4SCI-GSoC-2021)      | Yes                 |
-| Rajat Gupta             | [rajatguptakgp](https://github.com/rajatguptakgp)           | [gsoc21_deeplense](https://github.com/rajatguptakgp/gsoc21_deeplense)      | No                  |
+| Rajat Gupta             | [rajatguptakgp](https://github.com/rajatguptakgp)           | [gsoc21_deeplense](https://github.com/rajatguptakgp/gsoc21_deeplense)      | Yes                 |
 
 Late/pending submissions:
 
@@ -29,8 +28,10 @@ Late/pending submissions:
 | Asad Imtiaz Malik       | [asadimtiazmalik](https://github.com/asadimtiazmalik)  | [Test1](https://github.com/asadimtiazmalik/Simulating-the-Superfluid-Dark-Matter-using-PyAutolens) [Test3](https://github.com/asadimtiazmalik/Deep-Regression-Techniques-for-Decoding-Dark-Matter-with-Strong-Gravitational-Lensing-) | No                  |
 | Divyansha               | [divyansha1115](https://github.com/divyansha1115)      | [GSOC-Deep-Lens](https://github.com/divyansha1115/GSOC-Deep-Lens)            | No                  |
 | Sai Vamsi Alisetti      | [Vamsi995](https://github.com/Vamsi995)                | [Link](https://github.com/Vamsi995/Deep-Regression-Techniques-for-Decoding-Dark-Matter-with-Strong-Gravitational-Lensing) | Yes                 |
-| Rajat Gupta             | [rajatguptakgp](https://github.com/rajatguptakgp)      | [gsoc21_deeplense](https://github.com/rajatguptakgp/gsoc21_deeplense)        | No                  |  
+| Rajat Gupta             | [rajatguptakgp](https://github.com/rajatguptakgp)      | [gsoc21_deeplense](https://github.com/rajatguptakgp/gsoc21_deeplense)        | Yes                 |  
 | Sayantan Sadhu          | [sayantan1410](https://github.com/sayantan1410)        | [Link](https://github.com/sayantan1410/Deeplense-evaluation-task-GSoC-2021-) | Yes                 |
+| Yurii Halychanskyi      | [Claussss](https://github.com/Claussss)                | [GSoC_evaluation_tests](https://github.com/Claussss/GSoC_evaluation_tests)   | Yes                 |  
+| imad eddine tibermacine | [tiber10](https://github.com/tiber10)                  | [Link](https://github.com/tiber10/Machine-Learning-For-Science)              | Yes                 |  
 
 Late/pending submissions:
 
@@ -50,8 +51,7 @@ Late/pending submissions:
 | Manpinder Singh         |                                                        |                                                                              
 | Raushan kumar           |                                                        |                                                                            
 | Roaa ALmahdi            |                                                        |                                                                            
-| Priyam Gupta            |                                                        |   
-| imad eddine tibermacine |                                                        |                                                                          
+| Priyam Gupta            |                                                        |                                                                       
 
 ## Equivariant
 
@@ -59,8 +59,8 @@ Late/pending submissions:
 | ----------------------- | ----------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------- |
 | Gaurav                  | [Anaxagoras7](https://github.com/Anaxagoras7)         | [GSoC21-ml4sci-DeepLense](https://github.com/Anaxagoras7/GSoC21-ml4sci-DeepLense) | No                  |
 | Dhruv Rawat             | [thedhruvrawat](https://github.com/thedhruvrawat)     | [DeepLense](https://github.com/thedhruvrawat/DeepLense)                           | Yes                 |
-| Apoorva Vikram Singh    | [Apoorva99](https://github.com/Apoorva99)             | [GSoC-2021-DeepLens](https://github.com/Apoorva99/GSoC-2021-DeepLens)             | No                  |
-| Rajat Gupta             | [rajatguptakgp](https://github.com/rajatguptakgp)     | [gsoc21_deeplense](https://github.com/rajatguptakgp/gsoc21_deeplense)             | No                  |
+| Apoorva Vikram Singh    | [Apoorva99](https://github.com/Apoorva99)             | [GSoC-2021-DeepLens](https://github.com/Apoorva99/GSoC-2021-DeepLens)             | Yes                 |
+| Rajat Gupta             | [rajatguptakgp](https://github.com/rajatguptakgp)     | [gsoc21_deeplense](https://github.com/rajatguptakgp/gsoc21_deeplense)             | Yes                 |
 | Asad Imtiaz Malik       | [asadimtiazmalik](https://github.com/asadimtiazmalik) | [Link](https://github.com/asadimtiazmalik/ML4SCI--Solution-Repository/)           | Yes                 |
 
 Late/pending submissions:
