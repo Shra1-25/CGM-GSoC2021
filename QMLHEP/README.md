@@ -12,6 +12,7 @@
 | Yog Dharaskar            | [yopknopixx](https://github.com/yopknopixx)           | [link](./cv/yog_dharaskar.pdf)                                                 | [link](./solutions/yog_dharaskar)                                                 | No   | Yes  |
 | Nishanth R               | [AllMight2099](https://github.com/AllMight2099)       | [link](./cv/nishanth_r.pdf)                                                    | [link](https://github.com/AllMight2099/ml4sci-qcnn-eval)                          | No   | Yes  |
 | Chaithanya Naik          | [metalcyanide](https://github.com/metalcyanide)       | [link](./cv/chaithanya_naik.pdf)                                               | [link](https://github.com/metalcyanide/QMLHEP)                                    | Yes  | Yes  |
+| Christoph Haring         | [FreeworkEarth](https://github.com/FreeworkEarth)     | [link](./cv/christoph_haring.pdf)                                              | [link](https://github.com/FreeworkEarth/QML_HEP_eval_CH)                          | Yes  | Yes  |
 
 
 
@@ -35,6 +36,5 @@
 | Raghav Rawat      |               |    |                  | Yes  | Yes  |
 | Soham Bopardikar  |               |    |                  | No   | Yes  |
 | Atharva Sundge    |               |    |                  | No   | Yes  |
-| Christoph Haring  |               |    |                  | Yes  | Yes  |
 | Anjali Joshi      |               |    |                  | No   | Yes  |
 | Ayush Gupta       |               |    |                  | No   | Yes  |
