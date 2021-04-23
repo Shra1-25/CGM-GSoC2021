@@ -14,6 +14,6 @@ Contains all solutions to the evaluation tests.
 | Gorkem Temizel          | [MrFinchh](https://github.com/MrFinchh)                     | [Link](https://github.com/MrFinchh/GSoC-ML4SCI-Eval-Task)| 
 | Kshitij Soni            | [kshitijsoni](https://github.com/kshitijsoni)               | [Link](https://github.com/kshitijsoni/GSOC-21)|
 | Aamir Miyajiwaala       | [aamirmiy](https://github.com/aamirmiy)                     | [Link](https://github.com/aamirmiy/GSOC21)|
-| Shiven Tripathi         | [ShivenTripathi](https://github.com/ShivenTripathi)         | a) [Link](https://drive.google.com/drive/folders/1f8qW3uE-O-YoQHK0CWj9tfuEanH_JZZO?usp=gmail) b) Technical Report ([Link])|
+| Shiven Tripathi         | [ShivenTripathi](https://github.com/ShivenTripathi)         | a) [Link](https://drive.google.com/drive/folders/1f8qW3uE-O-YoQHK0CWj9tfuEanH_JZZO?usp=gmail) b) Technical Report ([Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/CGM/Archive/Submission_archives/CGM_Technical_Report.pdf))|
 | Rituraj Dutta           | [Rituraj-commits](https://github.com/Rituraj-commits)       | [Link](https://drive.google.com/drive/folders/1eWTJNOteFCHg0m46uFGPt1Z_t6GZSibI?usp=sharing)|
 |Raj Ar Patra                | [RajArPatra](https://github.com/RajArPatra)              | [Link](https://github.com/RajArPatra/Dimentionality-Reduction)|
