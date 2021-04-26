@@ -18,3 +18,4 @@ Contains all solutions to the evaluation tests.
 | Rituraj Dutta ([CV](https://github.com/ML4SCI/GSoC_Solutions/blob/main/CGM/Archive/CV/rituraj_dutta_cv.pdf))| [Rituraj-commits](https://github.com/Rituraj-commits)       | [Link](https://drive.google.com/drive/folders/1eWTJNOteFCHg0m46uFGPt1Z_t6GZSibI?usp=sharing)|
 | Raj Ar Patra ([CV](https://github.com/ML4SCI/GSoC_Solutions/blob/main/CGM/Archive/CV/raj_ar_patracv.pdf))| [RajArPatra](https://github.com/RajArPatra)              | [Link](https://github.com/RajArPatra/Dimentionality-Reduction)|
 | Jakub Rybak ([CV](https://github.com/ML4SCI/GSoC_Solutions/blob/main/CGM/Archive/CV/jakub_rybak_cv.pdf))| Not provided[]()|[Link](https://drive.google.com/drive/folders/1dFOA40A7dcWP4JdvcAgK0Bpni4gsc8x-?usp=sharing)|
+| Naimish Balajee ([CV]())|[Naimish240](https://github.com/Naimish240)|[Link](https://github.com/Naimish240/GSoC21-ML4SCI)|
