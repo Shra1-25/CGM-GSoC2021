@@ -20,10 +20,11 @@ Contains all solutions to the evaluation tests.
 | Naimish Balajee ([CV]())|[Naimish240](https://github.com/Naimish240)|[Link](https://github.com/Naimish240/GSoC21-ML4SCI)|[Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/CGM/Archive/Proposals/CGM_Naimish_Mani_B_5188777485533184_1618293455_CGM_Proposal_Naimish.pdf)|
 
 ## CGM Applicants without Evaluation Test Submission
-| Student                 | GitHub Handle                                               | Test Submissions                                                           | Proposal Submission |
-| ----------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------- |
-| Marcos Tidball          | [zysymu](https://github.com/zysymu)                         | No                                 | Yes                 |
-| Gagan Bhatia            | [gagan3012](https://github.com/gagan3012)                   | No        | No                  |
-| Harsh Pandey            | [harsh1245-bit](https://github.com/harsh1245-bit)           | No      | Yes                 |
-| Rajat Gupta             | [rajatguptakgp](https://github.com/rajatguptakgp)           | No      | Yes                 |
+| Student                 |  Proposal Submission |
+| ----------------------- |  ------------------- |
+| Deepthi M   | [Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/CGM/Archive/Proposals/CGM_DeepthiM_5422780373270528_1618325406_ml4sci.pdf)|
+| Hassan Raza Bukhari           | [Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/CGM/Archive/Proposals/CGM_Hassan_Raza_Bukhari_5357546598039552_1618238584_GSOC_proposal_Dimensionality_Reduction.pdf)|
+| Peker Celik            | [Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/CGM/Archive/Proposals/CGM_Peker_Celik_NA_5246502382862336_1618333216_Peker_Celik_ML4SCI_Proposal.pdf)|
+| Sweety Reddy            | [Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/CGM/Archive/Proposals/CGM_Sweety_Reddy_4640094591385600_1618329279_Sweety_Reddy___Gsoc__Project_proposal.pdf)    |
+| Vitalii Toderian | [Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/CGM/Archive/Proposals/CGM_Vitalii_Toderian_6673458827624448_1618336107_CGM_GSOC_Proposal.pdf)|
 
