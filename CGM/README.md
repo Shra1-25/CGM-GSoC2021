@@ -3,7 +3,7 @@ Contains all solutions to the evaluation tests.
 
 ## CGM Applicants Evaluation Submission & Proposals
 
-| Student                 | GitHub Handle                                               | Test Submissions      | Proposals |                                                     | 
+| Student                 | GitHub Handle                                               | Test Submissions      | Proposals                |                                                     | 
 | ----------------------- | ----------------------------------------------------------- | ----------------------| -------------------------|
 | Sandeep Saurav ([CV]))| [Sandeep10021](https://github.com/Sandeep10021)             | [Link](https://github.com/Sandeep10021/ML4SCI_GSoC)| [Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/CGM/Archive/Proposals/CGM_SandeepSaurav_5879847705903104_1618317156_CGM-_GSoc_Proposal.pdf)|
 | Marco Gullotto ([CV](https://github.com/ML4SCI/GSoC_Solutions/blob/main/CGM/Archive/CV/marco_gullotto_cv.pdf))| [MarcoChain](https://github.com/MarcoChain)                 | [Link](https://github.com/MarcoChain/ML4-Dimensionality-Reduction)| [Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/CGM/Archive/Proposals/CGM_Marco_Gullotto_5800078553382912_1618326528_Proposal_GSoC.pdf)|
