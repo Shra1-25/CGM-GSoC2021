@@ -6,6 +6,7 @@ Contains all solutions to the evaluation tests.
 | Student                 | GitHub Handle                                               | Test Submissions                                                           | Proposal Submission |
 | ----------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------- |
 | Purva Chaudhari ([CV](http://bit.ly/2OGR2uL), [Website](https://purva-chaudhari.github.io/My-Portfolio/index.html))| [Purva-Chaudhari](https://github.com/Purva-Chaudhari)             | [Link](https://github.com/Purva-Chaudhari/ML4Sci_Task)| [Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/E2E/Archive/Proposals/E2E_Purva_Chaudhari_5890610843615232_1618297523_GSOC_2021_ML4Sci_Proposal.pdf)|
+|Prayushi Mathur([CV](https://github.com/ML4SCI/GSoC_Solutions/blob/main/E2E/Archive/CV/Resume_Prayushi_Mathur.pdf))|[Prayushi9](https://github.com/Prayushi9)|a)[Task 1](https://github.com/Prayushi9/Electron-photon_Classification) b)[Task 2](https://github.com/Prayushi9/Quark-Gluon-classification) c)[Task 3](https://github.com/Prayushi9/E2E_Reconstruction)|[Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/E2E/Archive/Proposals/E2E_Prayushi_Mathur_Reconstruction_6201462910091264_1618070312_Google_Summer_of_Code_2021_Proposal___ML4SCI-.pdf)|
 
 ## E2E Regression Applicants Evaluation Submission & Proposals
 
