@@ -28,5 +28,6 @@ Contains all solutions to the evaluation tests.
 | ----------------------- |  ------------------- |
 | Angshuk Dutta   | [Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/E2E/Archive/Proposals/E2E_Angshuk_Dutta_NA_5822851006857216_1618329418_Proposal.pdf)|
 |Eljan Mahammadli| [Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/E2E/Archive/Proposals/E2E_Eljan_Mahammadli_5620979180503040_1618336711_Google_Summer_of_Code_2021_2.pdf)|
+|Swapnal Varma|[Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/E2E/Archive/Proposals/E2E_SwapnalVarma5985214527963136_1618335267_SwapnalVarma_E2EDL_CMS.pdf)|
 
 
