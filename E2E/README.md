@@ -1,5 +1,5 @@
 # GSoC 2021 E2E Applicants
-Contains all solutions to the evaluation tests.
+Contains all submissions to the evaluation tests.
 
 ## E2E Reconstruction Applicants Evaluation Submission & Proposals
 
