@@ -12,6 +12,7 @@ Contains all solutions to the evaluation tests.
 | Student                 | GitHub Handle                                               | Test Submissions                                                           | Proposal Submission |
 | ----------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------- |
 | Anis Ismail ([CV](https://github.com/ML4SCI/GSoC_Solutions/blob/main/E2E/Archive/CV/Anis%20ismail%20CV.pdf))| Not provided             | [Link](https://drive.google.com/drive/folders/1CSsvH1jXkBmAgkqV8t-kdYtFLCXLhLQU?usp=sharing)| [Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/E2E/Archive/Proposals/E2E_AnisIsmail_5331887859433472_1618325284_AnisIsmail-ML4SCI_E2E_Proposal.pdf)|
+| Saksham Dhawan([CV](https://github.com/ML4SCI/GSoC_Solutions/blob/main/E2E/Archive/CV/Saksham%20CV.pdf)|[saksham2172000](https://github.com/saksham2172000)|[Link](https://github.com/ML4SCI/GSoC_Solutions/tree/main/E2E/Archive/Submission_Archives/Saksham%20Dhawan)|[Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/E2E/Archive/Proposals/E2E_Saksham_Dhawan_Regression_6212406486761472_1618230494_End-to-End_Deep_Learning_Regression_for_Measurements_with_the_CMS_Experiment.pdf)|
 
 ## GNN for particle identification Applicants Evaluation Submission & Proposals
 
