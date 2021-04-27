@@ -1,5 +1,5 @@
 # GSoC 2021 CGM Applicants
-Contains all solutions to the evaluation tests.
+Contains all submissions to the evaluation tests.
 
 ## CGM Applicants Evaluation Submission & Proposals
 
