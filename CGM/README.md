@@ -20,9 +20,10 @@ Contains all solutions to the evaluation tests.
 | Naimish Balajee ([CV]())|[Naimish240](https://github.com/Naimish240)|[Link](https://github.com/Naimish240/GSoC21-ML4SCI)|[Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/CGM/Archive/Proposals/CGM_Naimish_Mani_B_5188777485533184_1618293455_CGM_Proposal_Naimish.pdf)|
 
 ## CGM Applicants without Evaluation Test Submission
-| Student                 | GitHub Handle                                               | Test Submissions      | Proposals |                                                     | 
-| ----------------------- | ----------------------------------------------------------- | ----------------------| -------------------------|
-| Sandeep Saurav ([CV]))| [Sandeep10021](https://github.com/Sandeep10021)             | [Link](https://github.com/Sandeep10021/ML4SCI_GSoC)| [Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/CGM/Archive/Proposals/CGM_SandeepSaurav_5879847705903104_1618317156_CGM-_GSoc_Proposal.pdf)|
-| Marco Gullotto ([CV](https://github.com/ML4SCI/GSoC_Solutions/blob/main/CGM/Archive/CV/marco_gullotto_cv.pdf))| [MarcoChain](https://github.com/MarcoChain)                 | [Link](https://github.com/MarcoChain/ML4-Dimensionality-Reduction)| [Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/CGM/Archive/Proposals/CGM_Marco_Gullotto_5800078553382912_1618326528_Proposal_GSoC.pdf)|
-| Niket Kumar Dheeryan ([CV](https://github.com/ML4SCI/GSoC_Solutions/blob/main/CGM/Archive/CV/niket_kumar_dheeryan_cv.pdf))| [Niketkumardheeryan](https://github.com/Niketkumardheeryan) | [Link](https://github.com/Niketkumardheeryan/Dimensionality-Reduction-Evalution-Test)| [Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/CGM/Archive/Proposals/CGM_NIket_Dheerya_5518596396023808_1618299541_n.pdf)|
+| Student                 | GitHub Handle                                               | Test Submissions                                                           | Proposal Submission |
+| ----------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------- |
+| Marcos Tidball          | [zysymu](https://github.com/zysymu)                         | No                                 | Yes                 |
+| Gagan Bhatia            | [gagan3012](https://github.com/gagan3012)                   | No        | No                  |
+| Harsh Pandey            | [harsh1245-bit](https://github.com/harsh1245-bit)           | No      | Yes                 |
+| Rajat Gupta             | [rajatguptakgp](https://github.com/rajatguptakgp)           | No      | Yes                 |
 
